@@ -1,2 +1,4 @@
 # git-example
-git course examples
+git course example
+
+Hello world
